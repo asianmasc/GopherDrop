@@ -14,6 +14,15 @@ up:
 down:
 	docker-compose down
 
+.PHONY: docker-build-push
+docker-build-push:
+	docker buildx create --use
+	docker buildx build \
+		--platform linux/amd64,linux/arm64 \
+		--tag dddd4444/gopherdrop:latest \
+		--push \
+		.
+
 logs:
 	docker-compose logs -f app
 

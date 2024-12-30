@@ -1,5 +1,1 @@
-.env
-node_modules
-ui/dist
-/.vs
-/.vscode
+*.DS_Store

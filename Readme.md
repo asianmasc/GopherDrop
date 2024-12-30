@@ -1,4 +1,4 @@
-# 🛠️ **GopherDrop** – Secure One-Time Secret Sharing 🏁
+# 🛠️ **AsianMasc Dropbox** – Secure One-Time Secret Sharing 🏁
 
 ![Docker Image Version](https://img.shields.io/docker/v/petrakisg/gopherdrop?sort=semver&label=Docker%20Image%20Version&logo=docker)
 ![Docker Pulls](https://img.shields.io/docker/pulls/petrakisg/gopherdrop)

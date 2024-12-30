@@ -24,14 +24,14 @@
       <!-- Footer -->
       <v-footer color="primary" dark class="justify-center">
         <span>
-          © {{ new Date().getFullYear() }} GopherDrop | 
+          © {{ new Date().getFullYear() }} AsianMasc | 
           <a
-            href="https://github.com/kek-Sec/gopherdrop"
+            href="https://asianmasc.com"
             target="_blank"
             rel="noopener noreferrer"
             class="text-white"
           >
-            GitHub Repository
+            Join the Community
           </a>
         </span>
       </v-footer>
